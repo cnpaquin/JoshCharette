@@ -9,7 +9,7 @@ body{
 }
 
 .navbar {
-    background-color: #D74B48;
+    background-color: #3a90be;
     color: #fff;
 }
 
@@ -18,7 +18,7 @@ body{
 }
 
 .navbar ul li a:hover{
-    background-color:  #903634;
+    background-color:  #30789e;
     color: #fff;
 }
 
@@ -41,20 +41,38 @@ body{
     z-index: 10;
     text-align: center;
     top: 180px;
+    color: #fff;
 }
 
 .quote {
-    height: 150px;
+    height: 75px;
     text-align: center;
     font-family: Arial;
-    font-size: 30px;  
+    font-size: 30px; 
+    color: #3a90be;
     margin-top: 2px;
 }
 
 .seperator {
-    padding-top: 20px;
-    background-color:beige;
+    padding-top: 25px;
+    background-color: #cdf1ff;
 }
+
+#profile {
+    padding-left: 6px;
+}
+
+#josh {
+    font-size: 30px;
+    font-family: Arial;
+    color: #3a90be;
+    text-align: center;
+}
+
+
+
+
+   
 /* ==========================================================================
    Author's custom styles
    ========================================================================== */
